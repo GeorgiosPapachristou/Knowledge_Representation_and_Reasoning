@@ -2,15 +2,15 @@
 
 # Georgios Papachristou, PhD, CIA, CRMA       
 
-## Module: Machine Learning
+## Module: Intelligent Agents
    
-   Below are presented the artefacts completed during my Master studies at the University of Essex online.
+   Below are presented the artefacts completed during the module "Intelligent Agents" of my Master studies at the University of Essex online.
 
 ---
 
 ### About Me
 
-I am an experienced Senior Internal Control and Compliance Officer at an International Organization with more than 12 years of working experience. I hold a PhD in Accounting and I am currenlty stu[...]
+I am an experienced Senior Internal Control and Compliance Officer at an International Organization with more than 12 years of working experience. I hold a PhD in Accounting and I am currenlty studying at the University of Essex Online.
 
 ### Artefacts
 
