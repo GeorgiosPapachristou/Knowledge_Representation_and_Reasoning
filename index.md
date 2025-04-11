@@ -16,9 +16,9 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
 *   Units 1-3
 
-    During these units, a discussion over the 4th Industrial Revolution was conducted. Apart from the benefits of this revolution, an incident where the failure of an information system has had a [...]
+    During these units, a discussion over the reasons that have led to the rise of agent-based systems and the benefits that this approach can offer to organisations took place. In the link below evidence of this discussion can be seen.
 
-    [Collaborative Discussion 1: The 4th Industrial Revolution](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
+    [Collaborative Discussion 1: Agent based systems](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
   
 *   Unit 2
   
