@@ -16,106 +16,72 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
 *   Units 1-3
 
+    Discussion Forum 1
+
     During these units, a discussion over the reasons that have led to the rise of agent-based systems and the benefits that this approach can offer to organisations took place. In the link below evidence of this discussion can be seen.
 
-    [Collaborative Discussion 1: Agent based systems](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%201_Units%201-3.pdf)
+    [Collaborative Discussion 1: Agent based systems](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Discussion%20Forum%201.pdf)
   
-*   Unit 2
+*   Units 5-7
   
-    Exploratory Data Analysis
+    Discussion Forum 2
 
-    EDA is valuable to data science projects as it allows to get closer to the certainty that the future results will be valid, correctly interpretes, and applicab;e to the desired business contex[...]
+    During these units, a discussion over the potential advantages and disadvantages of the use of agent communication languages such as KQML as well as over how do they compare with method invocation in Python or Java took place. In the link below evidence of this discussion can be seen.
 
-    [Case of Auto-mpg dataset](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/EDA%20Unit%202.pdf)
-  
-*   Unit 3
-  
-    Correlation and Regression
-
-    Correlation and regression are statistical techniques to quantify and describe the relationship between variables. Correlation quantifies the strength and type of relationship whereas regressi[...]
-
-    [Change variable in covariance_pearson_correlation programme to observe how changes impact correlation and regression](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Covar[...]
-
-*   Unit 4
-  
-    Linear Regression with Scikit-Learn
-
-    In this unit, the application of the fundamentals of linear regression in Scikit-Learn was learnt, as well as how to model linear relationships between a single independent and dependent varia[...]
-
-    [GDP & Global Population case analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/GDP_and_Global_Population.ipynb)
-  
-*   Unit 5
-  
-    Clustering
-
-    Clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups[...]
-
-    [WIKI Activity: Clustering](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/WIKI%20Activity_Clustering.pdf)
+    [Collaborative Discussion 2: Agent Communication Languages](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%202.pdf)
   
 *   Unit 6
   
-    Clustering with Python
+    Working Together
 
-    In this unit, the application of clustering (K-means) on data using the Python libraries in scikit-learn was performed. In addition, at the end of this unit, a team project, analysing Airbnb w[...]
+    In this unit, it was learnt how to use KQML and KIF to design communications between agents, we discussed the strengths and weaknesses of agent communications languages, and evaluated the different approaches to agent communication. During this unit it was also finanlised the team project assisgnment, where as a team we had to develop a comprehensive design proposal report for the development of an Academic Research Online Agent. In the links below, evidence of relevant activities can be seen.
 
-    [Iris case Clustering Analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Iris_clustering.ipynb)
-    
-    [Team Project: Airbnb Report](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/ML%20assignment%20group%203%20report.pdf)
-    
-    [Team Project: Data Analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/data-analysis_Report.ipynb)
-  
-*   Unit 7
+    [Creating Agent Dialogues](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Creating%20Agent%20Dialogues%20Unit%206.pdf)
 
-    Introduction to Artificial Neural Networks (ANNs)
+    [Team Project Report](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Intelligent%20Agents%20-%20Development%20Team%20Project_%20Project%20Report.pdf)
 
-    Artificial neural network (ANN) is a biology inspired algorithm that, like animal brain, can learn from the environment and adapt itself to make more correct decisions. ANN is a key driver for[...]
-
-    [Simple Perceptron](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex1%20simple_perceptron.ipynb)
-
-    [Perceptron and operator](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex2%20perceptron_AND_operator.ipynb)
-
-    [Multi-layer perceptron](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit07%20Ex3%20multi-layer%20Perceptron.ipynb)
-  
 *   Unit 8
+
+    Understanding Natural Language Processing
   
-    Training an Artificial Neural Network
+    In this unit, NLP in action was explored, key elements of using a Word2Vec model was learnt, and the use of constituency-based parse trees was investigated. In the links below, evidence of practising the creation of constituency-based parse trees can be seen.
 
-    Training is one the foundaments steps when it comes to the development of an ANN. In the links below, practicing examples of training ANNs can be seen.
+    [Example 1: The government raised interest rates](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example1.pdf)
 
-    [Gradient Cost Function Summary Analysis](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Change%20on%20cost%20when%20changing%20iteration%20number%20and%20learning%20rate.[...]
+    [Example 2: The internet gives everyone a voice](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example2.pdf)
 
-    [Gradient Cost Function Code](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit%208%20Iteration%20and%20learning%20rate%20impact%20on%20cost.ipynb)
-      
-*   Unit 9
+    [Example 3: The man saw the dog with the telescope](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example%203.pdf)
   
-    Introduction to Convolutioanl Neural Networks (CNNs)
-
-    Convolutional neural network is an extension of artificial neural network that forms the basis of computer vision; the way computers see and understand the physical world. In the links below, [...]
-
-    [Personal reflections on the ethical and social implications of this CNN technology](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Personal%20thoughts%20on%20the%20ethica[...]
+*   Units 9-11
   
-*   Units 8-10
+    Discussion Forum 3
 
-    During these units, a discussion over the the risks and benefits of the use AI writers at different levels, from administrative work to creative writing was conducted. In the link below, evid[...]
+    During these units, a discussion over the ethical concerns of the new technologies supported by Deep Learning models that are possible to generate ‘new’ content, took place. In the link below evidence of this discussion can be seen.
 
-    [Collaborative Discussion 2](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Discussion%20Forum%202_Units%208-10.pdf)
+    [Collaborative Discussion 3](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%203.pdf)
+  
+*   Unit 10
+  
+    Deep Learning in Action
+
+    In this unit, emerging applications of deep learning were presented, the potential social and ethical issues associated with these technologies were discussed, and the future directions of these technologies were explored. In the link below, an overview of self-driving cars, a brief synopsis of how they work, and their potential impacts in terms of ethics, privacy, social good, or any other socio-technical aspects can be seen. 
+
+    [Self-driving cars](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Deep%20Learning%20application%20review.pdf)
   
 *   Unit 11
-  
-    Model Selection and Evaluation
 
-    Model selection and evaluation, are important procedures in the machine learning workflow. Selection of correct model(s) is like selecting the correct tool(s) to do a specific job, which in m[...]
+    Intelligent Agents in Action
 
-    [Assignment - power point](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Assignment%2011.pdf)
+    In this unit, the concept of Industry 4.0 and smart manufacturing was introduced, the concept of a smart shop floor and the associated issues were discussed, and the the use of agent-based modelling in the financial sector was investigated. During this unit an Academic Research Online Agent was developed based on the design reported prepared during Unit 6. In the links below, the presentation summarizing the development of the agent as well as the transcript of the presentation can be seen.
 
-    [Assignment - transcript of presentation](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Transcript%20of%20presentation.pdf)
+    [Academic Research Online Agent - Presentation](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Assignment%2011.pdf)
 
-    [Assignment - ipynb](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Unit11_model_Performance_Measurement.ipynb)
-  
+    [Academic Research Online Agent - Presentation Transcript](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Transcript%20of%20presentation.pdf)
+
 *   Unit 12
   
-    Industry 4.0 and Machine Learning
+    The Future of Intelligent Agents
 
-    The so-called “smartisation” of manufacturing industries has been conceived as the fourth industrial revolution or Industry 4.0, a paradigm shift propelled by the upsurge and progressive [...]
-
-    [Personal reflections](https://github.com/GeorgiosPapachristou/Master-s-AI/blob/master/pdf/Reflective%20essay.pdf)
+    During this unit, the future directions of intelligent technologies were explored, the potential ramifications of these developments were discussed, and how technology will evolve in the coming years was considered. In the link below, personal reflections oven the entirety of this module can be seen.
+    
+    [Personal Reflections](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Reflective%20essay.pdf)
