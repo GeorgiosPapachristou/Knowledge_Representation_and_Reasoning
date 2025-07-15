@@ -2,9 +2,9 @@
 
 # Georgios Papachristou, PhD, CIA, CRMA       
 
-## Module: Intelligent Agents
+## Module: Knowledge Representation and Reasoning
    
-   Below are presented the artefacts completed during the module "Intelligent Agents" of my Master studies at the University of Essex online.
+   Below are presented the artefacts completed during the module "Knowledge Representation and Reasoning" of my Master studies at the University of Essex online.
 
 ---
 
@@ -14,49 +14,47 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
 ### Artefacts
 
+*   Unit 1
+
+    Introduction to Knowledge Representation and Reasoning
+
+    This unit provided an introduction to knowledge representation and reasoning and introduced common definitions of the terms. Relevant activities with regards to these concepts can be seen in the link below.
+    
 *   Units 1-3
 
     Discussion Forum 1
 
-    During these units, a discussion over the reasons that have led to the rise of agent-based systems and the benefits that this approach can offer to organisations took place. In the link below evidence of this discussion can be seen.
+    During these units, a discussion over the assertion that "Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems" took place. In the link below evidence of this discussion can be seen.
 
-    [Collaborative Discussion 1: Agent based systems](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Discussion%20Forum%201.pdf)
+    [Collaborative Discussion 1](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Discussion%20Forum%201.pdf)
   
-*   Units 5-7
-  
-    Discussion Forum 2
+*   Unit 3
 
-    During these units, a discussion over the potential advantages and disadvantages of the use of agent communication languages such as KQML as well as over how do they compare with method invocation in Python or Java took place. In the link below evidence of this discussion can be seen.
+    Introduction to Reasoning
+
+    During this unit the concept of reasoning was discussed as well as some formal methods of reasoning as the building blocks for knowledge representation and reasoning. Relevant activities can be seen in the link below.
 
     [Collaborative Discussion 2: Agent Communication Languages](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%202.pdf)
   
-*   Unit 6
+*   Unit 5
   
-    Working Together
+    Introduction to Modelling
 
-    In this unit, it was learnt how to use KQML and KIF to design communications between agents, we discussed the strengths and weaknesses of agent communications languages, and evaluated the different approaches to agent communication. During this unit it was also finanlised the team project assisgnment, where as a team we had to develop a comprehensive design proposal report for the development of an Academic Research Online Agent. In the links below, evidence of relevant activities can be seen.
+    In this unit, it was discussed the meaning of knowledge modelling and engineering and explored the principles of knowledge engineering. Relevant activities can be seen in the link below.
 
     [Creating Agent Dialogues](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Creating%20Agent%20Dialogues%20Unit%206.pdf)
 
-    [Team Project Report](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Intelligent%20Agents%20-%20Development%20Team%20Project_%20Project%20Report.pdf)
+*   Unit 6
 
-*   Unit 8
-
-    Understanding Natural Language Processing
+    Introduction to Ontology Building and Online and Offline Tools
   
-    In this unit, NLP in action was explored, key elements of using a Word2Vec model was learnt, and the use of constituency-based parse trees was investigated. In the links below, evidence of practising the creation of constituency-based parse trees can be seen.
+    In this unit, i learnt how to use knowledge representation and reasoning tools to design a knowledge-based solution, and i prectised the application of Protégé to develop simple knowledge-based systems. Relevant activities can be seen in the link below.
 
     [Example 1: The government raised interest rates](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example1.pdf)
-
-    [Example 2: The internet gives everyone a voice](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example2.pdf)
-
-    [Example 3: The man saw the dog with the telescope](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example%203.pdf)
   
-*   Units 9-11
+*   Unit 7 Knowledge Elicitation and Formalism
   
-    Discussion Forum 3
-
-    During these units, a discussion over the ethical concerns of the new technologies supported by Deep Learning models that are possible to generate ‘new’ content, took place. In the link below evidence of this discussion can be seen.
+    During this unit, the concepts of and principles that underpin knowledge acquisition were explored, the approaches to knowledge acquisition were discussed as well as the formalism within the context of knowledge representation reasoning. Relevant activities can be seen in the link below.
 
     [Collaborative Discussion 3](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%203.pdf)
   
