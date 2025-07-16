@@ -58,28 +58,34 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     [Collaborative Discussion 3](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%203.pdf)
   
-*   Unit 10
+*   Unit 8
   
-    Deep Learning in Action
+    Modelling with Protégé
 
-    In this unit, emerging applications of deep learning were presented, the potential social and ethical issues associated with these technologies were discussed, and the future directions of these technologies were explored. In the link below, an overview of self-driving cars, a brief synopsis of how they work, and their potential impacts in terms of ethics, privacy, social good, or any other socio-technical aspects can be seen. 
+    In this unit, i learnt how to apply a systematic approach to explore and understand data, how to use the Protégé software tool to explore data and develop, and also techniques to extract knowledge for representation. Relevant activities can be seen in the link below.
 
     [Self-driving cars](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Deep%20Learning%20application%20review.pdf)
   
-*   Unit 11
+*   Units 9-11
 
-    Intelligent Agents in Action
+    Discussion Forum 2
 
-    In this unit, the concept of Industry 4.0 and smart manufacturing was introduced, the concept of a smart shop floor and the associated issues were discussed, and the the use of agent-based modelling in the financial sector was investigated. During this unit an Academic Research Online Agent was developed based on the design reported prepared during Unit 6. In the links below, the presentation summarizing the development of the agent as well as the transcript of the presentation can be seen.
+    During these units, a discussion over the definition of ontology and the language (KIF, OWL2, RDF, OWL-Lite) that is the most useful to express ontologies that can be utilised by software agents on the WWW took place. In the link below evidence of this discussion can be seen.
 
     [Academic Research Online Agent - Presentation](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Assignment%2011.pdf)
 
-    [Academic Research Online Agent - Presentation Transcript](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Transcript%20of%20presentation.pdf)
+*   Unit 11
+  
+    Knowledge-based Technologies and Emerging Applications
+
+    During this unit, emerging approaches to developing ontology and knowledge-based systems were discussed, the concept of multi-domain ontology was presented, and various initiatives and the role of ontology in building Knowledge-based systems were explored. As part of this unit, I was tasked with employing the Protégé software to construct a prototype ontology as the backbone for an AI-driven job-matching service. In the link below evidence of this activity can be seen.
+      
+    [Personal Reflections](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Reflective%20essay.pdf)
 
 *   Unit 12
-  
-    The Future of Intelligent Agents
 
-    During this unit, the future directions of intelligent technologies were explored, the potential ramifications of these developments were discussed, and how technology will evolve in the coming years was considered. In the link below, personal reflections oven the entirety of this module can be seen.
-    
-    [Personal Reflections](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Reflective%20essay.pdf)
+    Ontology Evaluation – Case Study
+
+    During this unit, the development choices and decisions that need to be made when developing an ontology were presented, some of the emerging methodologies and how they are applied were discussed, and the various evaluation approaches to ensuring a fit for purpose knowledge-based system were explored. As pasr of this unit, I was requested to provide my personal reflections about the module. In the link below evidence of this activity can be seen.
+
+    [Pesonal Reflection]
