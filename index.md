@@ -19,6 +19,8 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
     Introduction to Knowledge Representation and Reasoning
 
     This unit provided an introduction to knowledge representation and reasoning and introduced common definitions of the terms. Relevant activities with regards to these concepts can be seen in the link below.
+
+    [Activity 1](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Formative%20Activity_Unit%201.pdf)
     
 *   Units 1-3
 
@@ -26,7 +28,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During these units, a discussion over the assertion that "Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems" took place. In the link below evidence of this discussion can be seen.
 
-    [Collaborative Discussion 1](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Discussion%20Forum%201.pdf)
+    [Collaborative Discussion 1](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Discussion%20Forum%201.pdf)
   
 *   Unit 3
 
