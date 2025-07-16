@@ -90,4 +90,4 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During this unit, the development choices and decisions that need to be made when developing an ontology were presented, some of the emerging methodologies and how they are applied were discussed, and the various evaluation approaches to ensuring a fit for purpose knowledge-based system were explored. As pasr of this unit, I was requested to provide my personal reflections about the module. In the link below evidence of this activity can be seen.
 
-    [Pesonal Reflection](
+    [Pesonal Reflection](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Reflective%20essay.pdf)
