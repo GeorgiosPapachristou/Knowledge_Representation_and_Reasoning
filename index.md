@@ -82,7 +82,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During this unit, emerging approaches to developing ontology and knowledge-based systems were discussed, the concept of multi-domain ontology was presented, and various initiatives and the role of ontology in building Knowledge-based systems were explored. As part of this unit, I was tasked with employing the Protégé software to construct a prototype ontology as the backbone for an AI-driven job-matching service. In the link below evidence of this activity can be seen.
       
-    [Prototype ontology for an AI-driven job matching service](
+    [Prototype ontology for an AI-driven job matching service](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Assignment%2011.pdf)
 
 *   Unit 12
 
@@ -90,4 +90,4 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During this unit, the development choices and decisions that need to be made when developing an ontology were presented, some of the emerging methodologies and how they are applied were discussed, and the various evaluation approaches to ensuring a fit for purpose knowledge-based system were explored. As pasr of this unit, I was requested to provide my personal reflections about the module. In the link below evidence of this activity can be seen.
 
-    [Pesonal Reflection]
+    [Pesonal Reflection](
