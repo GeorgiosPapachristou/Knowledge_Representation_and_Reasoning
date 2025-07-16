@@ -52,14 +52,14 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
     In this unit, i learnt how to use knowledge representation and reasoning tools to design a knowledge-based solution, and i prectised the application of Protégé to develop simple knowledge-based systems. Relevant activities can be seen in the link below.
 
-    [Activity](
+    [Ontologies](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Ontology%20unit%206.pdf)
   
 *   Unit 7 Knowledge Elicitation and Formalism
   
     During this unit, the concepts of and principles that underpin knowledge acquisition were explored, the approaches to knowledge acquisition were discussed as well as the formalism within the context of knowledge representation reasoning. Relevant activities can be seen in the link below.
 
-    [Collaborative Discussion 3](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%203.pdf)
-  
+    [Case Study Critical Review](
+    
 *   Unit 8
   
     Modelling with Protégé
