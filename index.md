@@ -74,7 +74,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During these units, a discussion over the definition of ontology and the language (KIF, OWL2, RDF, OWL-Lite) that is the most useful to express ontologies that can be utilised by software agents on the WWW took place. In the link below evidence of this discussion can be seen.
 
-    [Collaborative Discussion 2](
+    [Collaborative Discussion 2](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Discussion%20Forum%202.pdf)
 
 *   Unit 11
   
@@ -82,7 +82,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During this unit, emerging approaches to developing ontology and knowledge-based systems were discussed, the concept of multi-domain ontology was presented, and various initiatives and the role of ontology in building Knowledge-based systems were explored. As part of this unit, I was tasked with employing the Protégé software to construct a prototype ontology as the backbone for an AI-driven job-matching service. In the link below evidence of this activity can be seen.
       
-    [Personal Reflections](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Reflective%20essay.pdf)
+    [Prototype ontology for an AI-driven job matching service](
 
 *   Unit 12
 
