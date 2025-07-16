@@ -44,7 +44,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     In this unit, it was discussed the meaning of knowledge modelling and engineering and explored the principles of knowledge engineering. Relevant activities can be seen in the link below.
 
-    [Activity 1](
+    [Activity 1](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Unit%205_%20Activity%201.pdf)
 
 *   Unit 6
 
@@ -52,7 +52,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
     In this unit, i learnt how to use knowledge representation and reasoning tools to design a knowledge-based solution, and i prectised the application of Protégé to develop simple knowledge-based systems. Relevant activities can be seen in the link below.
 
-    [Example 1: The government raised interest rates](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Unit_8%20Example1.pdf)
+    [Activity](
   
 *   Unit 7 Knowledge Elicitation and Formalism
   
