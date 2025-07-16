@@ -36,7 +36,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During this unit the concept of reasoning was discussed as well as some formal methods of reasoning as the building blocks for knowledge representation and reasoning. Relevant activities can be seen in the link below.
 
-    [Collaborative Discussion 2: Agent Communication Languages](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/91788b31796334f1895f33000950666a3c89bfe8/Discussion%20Forum%202.pdf)
+    [The Barber's paradox](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/The%20Barber's%20paradox.pdf)
   
 *   Unit 5
   
@@ -44,7 +44,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     In this unit, it was discussed the meaning of knowledge modelling and engineering and explored the principles of knowledge engineering. Relevant activities can be seen in the link below.
 
-    [Creating Agent Dialogues](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Creating%20Agent%20Dialogues%20Unit%206.pdf)
+    [Activity 1](
 
 *   Unit 6
 
