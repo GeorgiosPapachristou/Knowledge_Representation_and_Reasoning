@@ -58,7 +58,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
   
     During this unit, the concepts of and principles that underpin knowledge acquisition were explored, the approaches to knowledge acquisition were discussed as well as the formalism within the context of knowledge representation reasoning. Relevant activities can be seen in the link below.
 
-    [Case Study Critical Review](
+    [Case Study Critical Review](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Case%20Study%20Review%20_%20Unit%207.pdf)
     
 *   Unit 8
   
@@ -66,7 +66,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     In this unit, i learnt how to apply a systematic approach to explore and understand data, how to use the Protégé software tool to explore data and develop, and also techniques to extract knowledge for representation. Relevant activities can be seen in the link below.
 
-    [Self-driving cars](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Deep%20Learning%20application%20review.pdf)
+    [Pizza Example](https://github.com/GeorgiosPapachristou/Knowledge_Representation_and_Reasoning/blob/main/Formative%208_Pizza%20Tutorial.rdf)
   
 *   Units 9-11
 
@@ -74,7 +74,7 @@ I am an experienced Senior Internal Control and Compliance Officer at an Interna
 
     During these units, a discussion over the definition of ontology and the language (KIF, OWL2, RDF, OWL-Lite) that is the most useful to express ontologies that can be utilised by software agents on the WWW took place. In the link below evidence of this discussion can be seen.
 
-    [Academic Research Online Agent - Presentation](https://github.com/GeorgiosPapachristou/Intelligent_Agents/blob/main/Assignment%2011.pdf)
+    [Collaborative Discussion 2](
 
 *   Unit 11
   
